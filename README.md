@@ -404,13 +404,4 @@ Project Link: [https://github.com/Satya832/day2-coffee](https://github.com/Satya
 
 ---
 
-## 🎯 What's Next?
-
-Check out the other days in the "10 Days of Voice Agents" challenge:
-- Day 1: [Project Name]
-- **Day 2: Coffee Shop Barista (You are here!)**
-- Day 3: Coming soon...
-
----
-
 **Made with ☕ and 🎙️ for the Murf AI + LiveKit Challenge**
